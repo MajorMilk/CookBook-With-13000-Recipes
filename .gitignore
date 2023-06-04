@@ -44,6 +44,8 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+DATA/
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
@@ -396,3 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.jpg
