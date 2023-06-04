@@ -3,9 +3,8 @@
  
  Data gained from https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images?resource=download
  
- 
-![CookBook_Yu8x3aV9Vq](https://github.com/MajorMilk/CookBook-With-13000-Recipes/assets/115612092/e327e738-c97d-4999-aa3b-38309c2da289)
 
+![CookBook_Yu8x3aV9Vq](https://github.com/MajorMilk/CookBook-With-13000-Recipes/assets/115612092/73f683d7-b4e9-4d9c-9222-289b1f78b0fe)
 
 Saving the recipe will save it as a txt file in a (Hopefully) print ready format.
 
